@@ -1,6 +1,8 @@
 # Demo
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.4.
+## Get node_modules
+
+Run `npm install` to generate the node_modules/ folder from the package.json file.
 
 ## Development server
 
